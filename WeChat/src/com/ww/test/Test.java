@@ -1,4 +1,4 @@
-package com.ww.main;
+package com.ww.test;
 
 public class Test {
 
